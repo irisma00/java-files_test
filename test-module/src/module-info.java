@@ -1,0 +1,3 @@
+module mywork {
+	exports mywork;
+}

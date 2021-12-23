@@ -9,5 +9,6 @@ public class LocalVarLambda {
         long cnt = Arrays.stream(arrInteger).filter(
                 (var a) -> (a != null && a > 5)).count();
         System.out.println(cnt);
+      
     }
 }

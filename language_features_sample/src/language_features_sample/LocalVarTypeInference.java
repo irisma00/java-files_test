@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class LocalVarTypeInference {
 	public void test() {
-		var message = "This is a local variable";
+		
 		
 	}
 }

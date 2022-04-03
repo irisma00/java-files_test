@@ -5,7 +5,7 @@ public class SwitchExp {
 		String d = "Monday";
 		int day = switch (d) {
 		case "Monday" -> 1;
-		case "Tuesday" -> 2;
+		case "Tuesday": 2;
 		default -> -1;
 		};
 	}

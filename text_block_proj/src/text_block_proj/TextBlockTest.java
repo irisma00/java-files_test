@@ -8,5 +8,12 @@ public class TextBlockTest {
                 "Of cabbages -- and kings --\n" +
                 "And why the sea is boiling hot --\n" +
                 "And whether pigs have wings.'\n";
+		
+		String msg = "'The time has come,' the Walrus said," +
+                "'To talk of many things:" +
+                "Of shoes -- and ships -- and sealing-wax --" +
+                "Of cabbages -- and kings --" +
+                "And why the sea is boiling hot --\n" +
+                "And whether pigs have wings.'\n";
 	}
 }
